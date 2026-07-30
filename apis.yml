@@ -1,4 +1,16 @@
 aid: doge-meme
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/doge-meme.png
 name: Doge-Meme
 description: "Top meme posts from r/dogecoin which include 'Meme' flair"
 url: https://api.doge-meme.lol/docs
