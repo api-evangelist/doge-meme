@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/doge-meme.
 name: Doge-Meme
 description: "Top meme posts from r/dogecoin which include 'Meme' flair"
 url: https://api.doge-meme.lol/docs
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
