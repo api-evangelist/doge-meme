@@ -39,7 +39,6 @@ apis:
   - name: Doge-Meme
     description: "Top meme posts from r/dogecoin which include 'Meme' flair"
     humanURL: https://api.doge-meme.lol/docs
-    baseURL: https://api.doge-meme.lol/docs
     tags:
       - Social
     properties:
